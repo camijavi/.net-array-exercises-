@@ -1,0 +1,15 @@
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\FlowControl\obj\Debug\net10.0\FlowControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\FlowControl\obj\Debug\net10.0\FlowControl.AssemblyInfoInputs.cache
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\FlowControl\obj\Debug\net10.0\FlowControl.AssemblyInfo.cs
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\FlowControl\obj\Debug\net10.0\FlowControl.csproj.CoreCompileInputs.cache
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\FlowControl\obj\Debug\net10.0\FlowControl.sourcelink.json
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\FlowControl\bin\Debug\net10.0\FlowControl.exe
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\FlowControl\bin\Debug\net10.0\FlowControl.deps.json
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\FlowControl\bin\Debug\net10.0\FlowControl.runtimeconfig.json
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\FlowControl\bin\Debug\net10.0\FlowControl.dll
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\FlowControl\bin\Debug\net10.0\FlowControl.pdb
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\FlowControl\obj\Debug\net10.0\FlowControl.dll
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\FlowControl\obj\Debug\net10.0\refint\FlowControl.dll
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\FlowControl\obj\Debug\net10.0\FlowControl.pdb
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\FlowControl\obj\Debug\net10.0\FlowControl.genruntimeconfig.cache
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\FlowControl\obj\Debug\net10.0\ref\FlowControl.dll
