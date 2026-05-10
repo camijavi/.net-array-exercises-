@@ -1,0 +1,15 @@
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\GeometricPatternsGen\bin\Debug\net10.0\GeometricPatternsGen.exe
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\GeometricPatternsGen\bin\Debug\net10.0\GeometricPatternsGen.deps.json
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\GeometricPatternsGen\bin\Debug\net10.0\GeometricPatternsGen.runtimeconfig.json
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\GeometricPatternsGen\bin\Debug\net10.0\GeometricPatternsGen.dll
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\GeometricPatternsGen\bin\Debug\net10.0\GeometricPatternsGen.pdb
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\GeometricPatternsGen\obj\Debug\net10.0\GeometricPatternsGen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\GeometricPatternsGen\obj\Debug\net10.0\GeometricPatternsGen.AssemblyInfoInputs.cache
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\GeometricPatternsGen\obj\Debug\net10.0\GeometricPatternsGen.AssemblyInfo.cs
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\GeometricPatternsGen\obj\Debug\net10.0\GeometricPatternsGen.csproj.CoreCompileInputs.cache
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\GeometricPatternsGen\obj\Debug\net10.0\GeometricPatternsGen.sourcelink.json
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\GeometricPatternsGen\obj\Debug\net10.0\GeometricPatternsGen.dll
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\GeometricPatternsGen\obj\Debug\net10.0\refint\GeometricPatternsGen.dll
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\GeometricPatternsGen\obj\Debug\net10.0\GeometricPatternsGen.pdb
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\GeometricPatternsGen\obj\Debug\net10.0\GeometricPatternsGen.genruntimeconfig.cache
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\GeometricPatternsGen\obj\Debug\net10.0\ref\GeometricPatternsGen.dll
