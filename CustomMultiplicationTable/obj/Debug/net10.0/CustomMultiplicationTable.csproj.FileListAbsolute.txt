@@ -1,0 +1,15 @@
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\CustomMultiplicationTable\obj\Debug\net10.0\CustomMultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\CustomMultiplicationTable\obj\Debug\net10.0\CustomMultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\CustomMultiplicationTable\obj\Debug\net10.0\CustomMultiplicationTable.AssemblyInfo.cs
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\CustomMultiplicationTable\obj\Debug\net10.0\CustomMultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\CustomMultiplicationTable\obj\Debug\net10.0\CustomMultiplicationTable.sourcelink.json
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\CustomMultiplicationTable\bin\Debug\net10.0\CustomMultiplicationTable.exe
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\CustomMultiplicationTable\bin\Debug\net10.0\CustomMultiplicationTable.deps.json
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\CustomMultiplicationTable\bin\Debug\net10.0\CustomMultiplicationTable.runtimeconfig.json
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\CustomMultiplicationTable\bin\Debug\net10.0\CustomMultiplicationTable.dll
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\CustomMultiplicationTable\bin\Debug\net10.0\CustomMultiplicationTable.pdb
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\CustomMultiplicationTable\obj\Debug\net10.0\CustomMultiplicationTable.dll
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\CustomMultiplicationTable\obj\Debug\net10.0\refint\CustomMultiplicationTable.dll
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\CustomMultiplicationTable\obj\Debug\net10.0\CustomMultiplicationTable.pdb
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\CustomMultiplicationTable\obj\Debug\net10.0\CustomMultiplicationTable.genruntimeconfig.cache
+C:\Users\CJ\Documents\Project\C#\.net-array-exercises-\CustomMultiplicationTable\obj\Debug\net10.0\ref\CustomMultiplicationTable.dll
