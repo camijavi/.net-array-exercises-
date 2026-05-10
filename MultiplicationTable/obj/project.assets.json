@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CJ\\Documents\\Project\\C#\\.net-array-exercises\\MultiplicationTable\\MultiplicationTable.csproj",
+      "projectUniqueName": "C:\\Users\\CJ\\Documents\\Project\\C#\\.net-array-exercises-\\MultiplicationTable\\MultiplicationTable.csproj",
       "projectName": "MultiplicationTable",
-      "projectPath": "C:\\Users\\CJ\\Documents\\Project\\C#\\.net-array-exercises\\MultiplicationTable\\MultiplicationTable.csproj",
+      "projectPath": "C:\\Users\\CJ\\Documents\\Project\\C#\\.net-array-exercises-\\MultiplicationTable\\MultiplicationTable.csproj",
       "packagesPath": "C:\\Users\\CJ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CJ\\Documents\\Project\\C#\\.net-array-exercises\\MultiplicationTable\\obj\\",
+      "outputPath": "C:\\Users\\CJ\\Documents\\Project\\C#\\.net-array-exercises-\\MultiplicationTable\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
